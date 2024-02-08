@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/shivangisaraf/Downloads/web-dev/2.1 Heading Element",
+      "program": "/Users/shivangisaraf/Downloads/web-dev/2.1 Heading Element/build/Debug/outDebug"
+    }
+  ]
+}
